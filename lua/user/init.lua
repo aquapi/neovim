@@ -1,5 +1,0 @@
-return {
-    lsp = {
-        servers = { "nimlangserver" }
-    }
-}
