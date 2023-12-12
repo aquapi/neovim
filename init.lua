@@ -22,9 +22,6 @@ end
 
 require("astronvim.utils").conditional_func(astronvim.user_opts("polish", nil, false), true)
 
--- Load color scheme
-vim.cmd [[colorscheme nord]]
-
 -- Set tab
 vim.opt.tabstop = 4        -- The width of a TAB is set to 4.
 vim.opt.shiftwidth = 4     -- Indents will have a width of 4
