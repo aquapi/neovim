@@ -3,7 +3,7 @@ return {
     { import = "astrocommunity.pack.zig" },
     { import = "astrocommunity.pack.typescript" },
     { import = "astrocommunity.pack.cpp" },
-    { import = "astrocommunity.pack.svelte" },
+    { import = "astrocommunity.pack.java" },
     { import = "astrocommunity.pack.docker" },
     { import = "astrocommunity.pack.html-css" },
     { import = "astrocommunity.pack.toml" },
