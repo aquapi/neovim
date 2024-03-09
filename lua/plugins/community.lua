@@ -10,6 +10,4 @@ return {
     { import = "astrocommunity.pack.json" },
     { import = "astrocommunity.pack.markdown" },
     { import = "astrocommunity.pack.bash" },
-
-    { import = "astrocommunity.colorscheme.nord-nvim" },
 } 

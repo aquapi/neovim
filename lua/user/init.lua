@@ -1,3 +1,3 @@
 return {
-    colorscheme = "nord"
+    colorscheme = "catppuccin"
 }
