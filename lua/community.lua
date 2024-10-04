@@ -14,5 +14,6 @@ return {
   { import = "astrocommunity.pack.html-css" },
   { import = "astrocommunity.pack.json" },
   { import = "astrocommunity.pack.markdown" },
-  { import = "astrocommunity.pack.astro" }
+  { import = "astrocommunity.pack.astro" },
+  { import = "astrocommunity.pack.nim" },
 }
